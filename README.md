@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Oliver César.
 
 - 🔭 Atualmente trablhando como Freelancer Back-End
-- 🌱 Estudando Js/Tp
+- 🌱 Estudando Python/Js
 - 😄 Pronouns: ele/dele
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olivercz1&show_icons=true&theme=radical)
