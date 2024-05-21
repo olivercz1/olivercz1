@@ -9,6 +9,8 @@
 
 
 <div style="display: inline_block"><br>
+  ![code](https://github.com/olivercz1/olivercz1/assets/146144585/ed1c3cdb-e209-46e0-8397-810a5e22d17b)
+
   <img align="left" height="250" alt="coding-time" src="code.gif">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
