@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Oliver César.
 
-- 🔭 Atualmente trablhando como Freelancer Back-End
+- 🔭 Atualmente trabalhando como Freelancer Back-End
 - 🌱 Estudando Python/Js
 - 😄 Pronouns: ele/dele
 
